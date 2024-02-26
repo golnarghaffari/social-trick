@@ -1,6 +1,6 @@
 # social-trick
 
-# [demo of project]()
+# [demo of project]( https://golnarghaffari.github.io/social-trick/)
 
 **1. html**
 
